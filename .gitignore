@@ -1,3 +1,6 @@
+# Allow GitHub Actions workflows
+!.github/workflows/
+
 # IntelliJ IDEA
 .idea/
 *.iws
